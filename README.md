@@ -8,11 +8,17 @@ This repo is the public, reusable core of a larger production workflow. It is de
 
 ## Current scope
 
-- Deterministic ingest + normalization\n- Structured extraction interfaces\n- Metadata/tagging pipelines\n- Search/index preparation utilities
+- Deterministic ingest + normalization
+- Structured extraction interfaces
+- Metadata/tagging pipelines
+- Search/index preparation utilities
 
 ## Near-term roadmap
 
-1. Publish core parser contracts + schema\n2. Add extraction backends (PDF/office/plaintext)\n3. Add benchmark set for extraction fidelity\n4. Release first end-to-end doc intelligence example
+1. Publish core parser contracts + schema
+2. Add extraction backends (PDF/office/plaintext)
+3. Add benchmark set for extraction fidelity
+4. Release first end-to-end doc intelligence example
 
 ## Related work
 
